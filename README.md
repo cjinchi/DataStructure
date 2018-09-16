@@ -1,2 +1,2 @@
 # DataStructure
-OJ and final project, Data Structure, Autumn 2017.
+OJ and final project, Data Structure, Fall 2017.
